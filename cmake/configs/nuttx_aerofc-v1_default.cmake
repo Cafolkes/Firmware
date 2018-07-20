@@ -50,8 +50,9 @@ set(config_module_list
 	modules/attitude_estimator_q
 	modules/local_position_estimator
 	modules/landing_target_estimator
+	modules/position_estimator_inav
 	modules/ekf2
-
+	
 	#
 	# Vehicle Control
 	#
